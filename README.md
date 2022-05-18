@@ -1,2 +1,1 @@
-# git_crash_course
-Mastering git
+This repository will show you a basic git workflow
